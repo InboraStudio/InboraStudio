@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&height=180&width=1&section=header&text=Hey%20Everyone!&fontAlignY=30&fontAlign=20&fontSize=40&desc=I'M%20INBORA%20STUDIO&descAlign=14&animation=fadeIn&customColorList=19,1,37,4,3,19,16,19,19,16)
 ### Hi there 👋
 
 <!--
