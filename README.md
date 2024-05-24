@@ -16,7 +16,7 @@
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://i.imgur.com/LJ02f8h.png" width="500" />
+<img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243700531654955120/file_1.png?ex=66526de1&is=66511c61&hm=db34b09252b73295dbb9b2258c1ea88c171f0620943844e66e5f173cfaa6adae&" width="500" />
 <br/>
 <br/>
   
