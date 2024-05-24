@@ -1,27 +1,65 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&height=180&width=1&section=header&text=Hey%20Everyone!&fontAlignY=30&fontAlign=20&fontSize=40&desc=I'M%20INBORA%20STUDIO&descAlign=14&animation=fadeIn&customColorList=19,1,37,4,3,19,16,19,19,16)
+#
+<div>
+<img src="https://i.imgur.com/fgSLbeG.png" width="300" align="right" />
+<br/>
+<img src="https://i.imgur.com/ePNxq4P.png" width="500" />
+<br/>
+<br/>
+  
+- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Student from Vietnam  
+- <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Coder 
+- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
+- 🎮 I enjoy playing Open-world, FPS Games, Adventure, Platformer, Rhythm *and some lewd visual novels (shhh, don't tell anyone!)* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
+  ↳ **Some games:** <img src="https://i.imgur.com/E7EUUH3.png" alt="." width="16" height="16"/> [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/), <img src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" alt="." width="16" height="16"/> [Osu!](https://osu.ppy.sh/), <img src="https://i.imgur.com/QK1E4kB.png" alt="." width="16" height="16"/> [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/asia/vi-vn/home), <img src="https://i.imgur.com/qbjSWml.png" alt="." width="16" height="16"/> [Honkai: Star Rail](https://hsr.hoyoverse.com/vi-vn/home), <img src="https://i.imgur.com/7yTo0uO.png" alt="." width="16" height="16"/> [Valorant](https://playvalorant.com/vi-vn/), ...
 
-<h1 align="center">Hi 👋, I'm Shu okaya</h1>
-<h3 align="center">Game and ONNX model trainer</h3>
+- Good with <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript, <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
-- 🔭 I’m currently working on [Multiplayer FPS shooter Game](https://inborastudio.wixsite.com/inborastudio/post/leofun)
+<img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
+<br/>
+<img src="https://i.imgur.com/LJ02f8h.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***aiko-chan-ai/discord.js-selfbot-v13***](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) <br/>
+  An unofficial discord.js fork for creating selfbots
+- 📘 [***aiko-chan-ai/DiscordBotClient***](https://github.com/aiko-chan-ai/DiscordBotClient) <br/>
+  A patched version of discord, with bot login support
+- 📙 [***aiko-chan-ai/N0va-Desktop-File-Converter***](https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter) <br/>
+  Extract videos and photos from NovaDesktop
+- 📕 [***aiko-chan-ai/Discord-Markdown***](https://github.com/aiko-chan-ai/Discord-Markdown) <br/>
+  Better Markdown to text chat Discord.
 
-- 🌱 I’m currently learning **Efficient NET B0 V26**
+<br/>
+<img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
-- 👨‍💻 All of my projects are available at [https://inborastudio.wixsite.com/inborastudio/projects](https://inborastudio.wixsite.com/inborastudio/projects)
+<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
+</div>
 
-- 💬 Ask me about **Game development and Intelligence neural networks errors**
+## Discord
+<a href="https://discord.com/users/721746046543331449"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+  </a>
 
-- 📫 How to reach me **Studio.inbora@gmail.com**
+## My stats:
 
-- ⚡ Fun fact **am programming since am 14**
-
-<h3 align="left">Connect with me:</h3>
+<br/>
 <p align="left">
-<a href="https://codepen.io/inbora studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="inbora studio" height="30" width="40" /></a>
-<a href="https://twitter.com/inborastudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inborastudio" height="30" width="40" /></a>
-<a href="https://instagram.com/inborastudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inborastudio" height="30" width="40" /></a>
-<a href="https://discord.gg/Dr.Chamyoung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dr.Chamyoung" height="30" width="40" /></a>
+  <a href="/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aiko-chan-ai&theme=dracula&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiko-chan-ai&theme=dracula&hide_border=true" />
+  </a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/DiscordBotClient,aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/DiscordBotClient&aiko-chan-ai/discord.js-selfbot-v13&Date)
+
+
+## Thanks for reading ❤️
+
+![:aikocount](https://count.getloli.com/get/@aiko-chan-ai?theme=rule34)
