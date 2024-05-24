@@ -32,7 +32,7 @@
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
+<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Dr chamyoung* </sub>
 </div>
 
 ## Discord
