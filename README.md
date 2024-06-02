@@ -6,7 +6,7 @@
 <br/>
 <br/>
   
-- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Sensor AI Dev  
+- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Sensor AI Developer
 - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Tencnet.exe
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
 - 🎮 I design neural networks, Game developer for fun, ML expect as Profession *and some 3d girl anime girl modelling (shhh, don't tell anyone!)* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
@@ -32,7 +32,7 @@
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Dr chamyoung* </sub>
+<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Dr chamyoung * </sub>
 </div>
 
 ## Discord
