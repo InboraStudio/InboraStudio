@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243685638641942543/gmetraivnka-Photoroom.png-Photoroom.png?ex=66526002&is=66510e82&hm=5a9866a55425fdd092d5b4f48c63569d9c91a035102022d736baca5459dfe176&" width="300" align="right" />
+<img src="https://media.discordapp.net/attachments/1160585788866707679/1243685638641942543/gmetraivnka-Photoroom.png-Photoroom.png?ex=6660e082&is=665f8f02&hm=354d2bdd7a2baf60c832ee586eca5cfe6eeafef17b9cae150934143f7619ff35&=&format=webp&quality=lossless&width=256&height=256" width="300" align="right" />
 <br/>
 <img src="https://media.discordapp.net/attachments/1160585788866707679/1243697012679905390/file.png?ex=66526a9a&is=6651191a&hm=193d52de7125fcc71b482c2bf7edf14ec26cde2c6b696ba3c36dd16045398e0a&=&format=webp&quality=lossless&width=440&height=68" width="500" />
 <br/>
