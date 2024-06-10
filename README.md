@@ -13,8 +13,10 @@
   ↳ 'Some Projects' Video Engine useing CUDA, FPS,horror,multiplayer,openwolrd,Stylised Game,so much more!
 
   #### Good with with all Headache,
+  
+![Dr Chamyoung (6)](https://github.com/InboraStudio/InboraStudio/assets/96738915/c460bce2-4d84-4628-b495-11f97b600eef)
 
-  ![Dr Chamyoung (1)](https://github.com/InboraStudio/InboraStudio/assets/96738915/5fe06f51-45d0-4822-b3c7-7625a0da47d3)
+  
   ### also in C++, C#, Java
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
