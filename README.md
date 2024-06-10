@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://media.discordapp.net/attachments/1160585788866707679/1243685638641942543/gmetraivnka-Photoroom.png-Photoroom.png?ex=6660e082&is=665f8f02&hm=354d2bdd7a2baf60c832ee586eca5cfe6eeafef17b9cae150934143f7619ff35&=&format=webp&quality=lossless&width=256&height=256" width="300" align="right" />
+<img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
 <br/>
 <img src="https://media.discordapp.net/attachments/1160585788866707679/1243697012679905390/file.png?ex=66526a9a&is=6651191a&hm=193d52de7125fcc71b482c2bf7edf14ec26cde2c6b696ba3c36dd16045398e0a&=&format=webp&quality=lossless&width=440&height=68" width="500" />
 <br/>
@@ -12,21 +12,29 @@
 - 🎮 I design neural networks, Game developer for fun, ML expect as Profession *and some 3d girl anime girl modelling (shhh, don't tell anyone!)* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
   ↳ 'Some Projects' Video Engine useing CUDA, FPS,horror,multiplayer,openwolrd,Stylised Game,so much more!
 
-- Good with <img src="[https://i.imgur.com/Xjb867j.png](https://user-images.githubusercontent.com/833642/36984493-9f340464-205a-11e8-9d93-bddc0a5793ec.png)" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript, <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++, C#, Java
+  #### Good with with all Headache,
+
+  ![Dr Chamyoung (1)](https://github.com/InboraStudio/InboraStudio/assets/96738915/5fe06f51-45d0-4822-b3c7-7625a0da47d3)
+  ### also in C++, C#, Java
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
 <img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243700531654955120/file_1.png?ex=66526de1&is=66511c61&hm=db34b09252b73295dbb9b2258c1ea88c171f0620943844e66e5f173cfaa6adae&" width="500" />
 <br/>
 <br/>
+
+# Projects <!-- omit in toc -->
   
-- 📗 [***unity-game-OptimizersV2.1***]([https://github.com/InboraStudio/unity-game-Optimizers](https://github.com/InboraStudio/unity-game-Optimizers)3) <br/>
+> - 📗 [***unity-game-OptimizersV2.1***]([https://github.com/InboraStudio/unity-game-Optimizers](https://github.com/InboraStudio/unity-game-Optimizers)3) <br/>
   this is Algorithm for optimization in core of games or Architectures 
-- 📘 [***Game-engineV7.21***](https://github.com/InboraStudio/Game-engine-) <br/>
+> - 📘 [***Game-engineV7.21***](https://github.com/InboraStudio/Game-engine-) <br/>
   Game engine 2d , 3d work on open GL and directX 12 core
-- 📙 [***Unity-Realtime-voice-transcription***](https://github.com/InboraStudio/Unity-Realtime-voice-transcription) <br/>
+
+
+ 
+> - 📙 [***Unity-Realtime-voice-transcription***](https://github.com/InboraStudio/Unity-Realtime-voice-transcription) <br/>
   Real time voice transcription algorithm 
-- 📕 [***unity-Tool V21.6***](https://github.com/InboraStudio/unity-Tool) <br/>
+> - 📕 [***unity-Tool V21.6***](https://github.com/InboraStudio/unity-Tool) <br/>
   Better Markdown to text chat Discord.
 
 <br/>
