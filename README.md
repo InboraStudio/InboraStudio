@@ -2,7 +2,7 @@
 <div>
 <img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
 <br/>
-<img src="" width="500" />
+<img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243697012679905390/file.png?ex=66a37eda&is=66a22d5a&hm=0049fff917520c2422a4104963c8376fcc8ed4062c77463ac7e947265dc85c63&" width="500" />
 <br/>
 <br/>
   
