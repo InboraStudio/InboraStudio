@@ -2,7 +2,7 @@
 <div>
 <img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243697012679905390/file.png?ex=66a37eda&is=66a22d5a&hm=0049fff917520c2422a4104963c8376fcc8ed4062c77463ac7e947265dc85c63&" width="500" />
+<img src="https://media.discordapp.net/attachments/1160585788866707679/1243697012679905390/file.png?ex=66aeb39a&is=66ad621a&hm=9a3b4eeedf3e4ceb1ee3295dd96c660100d85a55e48005810f471211ed50f200&=&format=webp&quality=lossless&width=466&height=72" width="500" />
 <br/>
 <br/>
   
@@ -21,7 +21,7 @@
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/1160585788866707679/1243700531654955120/file_1.png?ex=66a38221&is=66a230a1&hm=43a7a2e9ef9dfec8931c0b9c3a9e38ebd25a7011d8269c0575bc348d637314d1&" width="500" />
+<img src="https://media.discordapp.net/attachments/1160585788866707679/1243700531654955120/file_1.png?ex=66aeb6e1&is=66ad6561&hm=7e76a4f4f84c3d203233da8d76d8de1ee8cf89dd95c9d716a79dc60f8a2f4158&=&format=webp&quality=lossless&width=466&height=72" width="500" />
 <br/>
 <br/>
 
