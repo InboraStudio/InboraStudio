@@ -9,7 +9,7 @@
 - <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Sensor AI Developer
 - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Tencnet.exe
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 2x years old. 
-- 🎮 I design neural networks, Game developer for fun, ML expect as Profession *and some 3d girl anime girl modelling (shhh, don't tell anyone!)* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
+- 🎮 I design neural networks, Game developer for fun, ML expect as Profession *and some 3d girl anime girl modelling ( shhh, don't tell anyone! )* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
   ↳ 'Some Projects' Video Engine useing CUDA, FPS,horror,multiplayer,openwolrd,Stylised Game,so much more!
 
   #### Good with with all Headache,
