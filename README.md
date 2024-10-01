@@ -2,7 +2,7 @@
 <div>
 <img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
 <br/>
-<img src="https://github.com/user-attachments/assets/3473c039-8cb8-46b4-88bc-252fd97fdfa7" width="690" />
+<img src="https://github.com/user-attachments/assets/3473c039-8cb8-46b4-88bc-252fd97fdfa7" width="600" />
 <br/>
 <br/>
   
@@ -21,7 +21,7 @@
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://github.com/user-attachments/assets/fb411ef8-74e0-4a32-9e8a-825c365b715b" width="690" />
+<img src="https://github.com/user-attachments/assets/fb411ef8-74e0-4a32-9e8a-825c365b715b" width="600" />
 <br/>
 <br/>
 
