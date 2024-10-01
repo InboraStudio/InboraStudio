@@ -5,10 +5,11 @@
 <img src="https://github.com/user-attachments/assets/3473c039-8cb8-46b4-88bc-252fd97fdfa7" width="500" />
 <br/>
 <br/>
-  
-- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Sensor AI Developer
+ 
+
+- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="25" height="25"/> Sensor Developer
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/1200px-Tencent_Logo.svg.png" alt="." width="95" height="16"/> is Love
-- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 2x years old. 
+- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="25" height="25" /> I am 2x years old. 
 - 🎮 I design neural networks, Game developer for fun, ML expect as Profession *and some 3d girl anime girl modelling ( shhh, don't tell anyone! )* <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
   ↳ 'Some Projects' Video Engine useing CUDA, FPS,horror,multiplayer,openwolrd,Stylised Game,so much more!
 
