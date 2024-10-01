@@ -2,7 +2,7 @@
 <div>
 <img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
 <br/>
-<img src="https://media.discordapp.net/attachments/1160585788866707679/1243697012679905390/file.png?ex=66aeb39a&is=66ad621a&hm=9a3b4eeedf3e4ceb1ee3295dd96c660100d85a55e48005810f471211ed50f200&=&format=webp&quality=lossless&width=466&height=72" width="500" />
+<img src="https://github.com/user-attachments/assets/3473c039-8cb8-46b4-88bc-252fd97fdfa7" width="690" />
 <br/>
 <br/>
   
@@ -21,7 +21,7 @@
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://media.discordapp.net/attachments/1160585788866707679/1243700531654955120/file_1.png?ex=66aeb6e1&is=66ad6561&hm=7e76a4f4f84c3d203233da8d76d8de1ee8cf89dd95c9d716a79dc60f8a2f4158&=&format=webp&quality=lossless&width=466&height=72" width="500" />
+<img src="https://github.com/user-attachments/assets/fb411ef8-74e0-4a32-9e8a-825c365b715b" width="690" />
 <br/>
 <br/>
 
