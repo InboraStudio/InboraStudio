@@ -35,7 +35,7 @@ Salt Player (A local music player trusted and chosen by hundreds of thousands of
 
 
  
-> - 📙 [***Microsoft Windows Seh ***](https://github.com/microsoft/windows_seh_tests) <br/>
+> - 📙 [***Microsoft Windows Seh***](https://github.com/microsoft/windows_seh_tests) <br/>
  Windows C/C++ Structured Exception Handling Validation Test Suite
 > - 📕 [***Unreal Engine 6.2.1Alpha***](https://github.com/EpicGames/UnrealEngine) <br/>
   Geometry Subdata Handling Selection In Unreal 6.
