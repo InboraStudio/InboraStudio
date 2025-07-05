@@ -10,7 +10,7 @@
 - <img src="https://media.tenor.com/scCN_vagWI0AAAAi/play-violet-angry.gif" alt="." width="25" height="25"/> Lazy Developer
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/1200px-Tencent_Logo.svg.png" alt="." width="95" height="16"/> is Love
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="25" height="25" /> I am 1x years old. 
-- <img src="https://media.tenor.com/Fpdl08LKCKQAAAAi/mythikore-anime-girl.gif" alt="." width="35" height="35"/> I design neural networks, Game developer for fun, ML expect as Profession *and some 3d anime girl modelling ( shhh, don't tell anyone! )* <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="." width="25" height="25" />    
+- <img src="https://media.tenor.com/Fpdl08LKCKQAAAAi/mythikore-anime-girl.gif" alt="." width="35" height="35"/> I work on AI Backends & Game Game development as hobbie, *and sometimee 3d anime girl modelling ( shhh, don't tell anyone! )* <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="." width="25" height="25" />    
   ↳ 'Some Projects' Physic Engine, 32bit Kernel, Language DataSets And FPS, horror, multiplayer, openwolrd, Stylised Games, so much more!
 
   #### Good with with all Headache,
