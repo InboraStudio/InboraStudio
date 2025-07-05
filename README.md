@@ -43,7 +43,7 @@ Salt Player (A local music player trusted and chosen by hundreds of thousands of
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
 
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Dr chamyoung * </sub>
+<sub>  *“Their doubt is a reflection of their mindset, not your potential. ♪.” – Dr chamyoung * </sub>
 </div>
 
 ## Discord
