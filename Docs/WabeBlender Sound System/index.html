@@ -1,0 +1,102 @@
+<!-- Save as index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sound Transformer Data Compute</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; background: #f7f7fa; margin: 0; color: #222; }
+        header { background: #343a40; color: #fff; padding: 2rem 1rem; text-align: center; }
+        h1 { margin: 0; font-size: 2.5rem; }
+        .badge { background: #007bff; color: #fff; border-radius: 4px; padding: 0.2em 0.6em; font-size: 0.9em; margin-right: 0.5em; }
+        main { max-width: 900px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px #0001; }
+        table { width: 100%; border-collapse: collapse; margin: 1.5em 0; }
+        th, td { padding: 0.7em; border-bottom: 1px solid #eee; text-align: left; }
+        th { background: #f0f0f5; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .footer { text-align: center; color: #888; margin: 2em 0 1em 0; font-size: 0.95em; }
+        .screenshot { width: 100%; max-width: 500px; display: block; margin: 1em auto; border-radius: 6px; box-shadow: 0 1px 6px #0002; }
+        .section-title { margin-top: 2em; font-size: 1.4em; color: #007bff; }
+        code { background: #f0f0f5; padding: 2px 6px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sound Transformer Data Compute</h1>
+        <span class="badge">Unity 2022.3+</span>
+        <span class="badge">GPU Accelerated</span>
+        <span class="badge">FDTD Physics</span>
+    </header>
+    <main>
+        <p>
+            <strong>Sound Transformer Data Compute</strong> is a Unity project for real-time, physically-based sound simulation using Finite-Difference Time-Domain (FDTD) methods. It models sound propagation, material effects, and interactive audio synthesis for games and research.
+        </p>
+        <img src="demo_screenshot.png" alt="Demo Screenshot" class="screenshot">
+
+        <div class="section-title">Features</div>
+        <table>
+            <tr>
+                <th>Feature</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>FDTD Sound Simulation</td>
+                <td>Real-time pressure and velocity field simulation on the GPU.</td>
+            </tr>
+            <tr>
+                <td>Material Modeling</td>
+                <td>Supports air, steel, aluminum, wood, and water for realistic sound effects.</td>
+            </tr>
+            <tr>
+                <td>Enhanced Sources</td>
+                <td>Trigger metallic, wooden, and liquid sounds with physical parameters.</td>
+            </tr>
+            <tr>
+                <td>Audio Output</td>
+                <td>Direct synthesis to Unity's AudioSource with post-processing.</td>
+            </tr>
+            <tr>
+                <td>Visualization</td>
+                <td>3D grid and source visualization in the Unity Editor.</td>
+            </tr>
+        </table>
+
+        <div class="section-title">Technical Details</div>
+        <ul>
+            <li><strong>Compute Shaders:</strong> High-performance parallel simulation of sound fields.</li>
+            <li><strong>FDTD Math:</strong> Solves the 3D wave equation: <code>&#8706;&#178;p/&#8706;t&#178; = c&#178; &#8711;&#178;p</code></li>
+            <li><strong>Material Effects:</strong> Each grid cell can represent air, steel, wood, water, etc., affecting sound speed and damping.</li>
+            <li><strong>Source Modeling:</strong> Physical parameters (frequency, amplitude, damping, material, phase) for each sound source.</li>
+            <li><strong>Audio Sampling:</strong> Listener position mapped to simulation grid, spatial averaging for anti-aliasing.</li>
+            <li><strong>Post-Processing:</strong> Soft clipping, low-pass filtering, and simple reverb for natural audio output.</li>
+        </ul>
+
+        <div class="section-title">Reference</div>
+        <p>
+            Based on research in FDTD sound simulation:<br>
+            <a href="https://graphics.stanford.edu/papers/waveblender/">
+                Finite-Difference Time-Domain Simulation of Sound Propagation in 3D
+            </a>
+        </p>
+
+        <div class="section-title">Getting Started</div>
+        <ol>
+            <li>Clone the repository: <code>git clone https://github.com/yourusername/SoundTransformerDataCompute.git</code></li>
+            <li>Open in Unity 2022.3 or newer.</li>
+            <li>Assign the <code>WaveBlenderSolver</code> and <code>WaveBlenderDemo</code> scripts to GameObjects.</li>
+            <li>Assign the <code>WaveBlenderFDTD.compute</code> shader to the solver.</li>
+            <li>Press Play and interact using Space (metal), W (wood), Q (water drop).</li>
+        </ol>
+
+        <div class="section-title">License & Contributing</div>
+        <p>
+            MIT License. Pull requests and issues welcome!
+        </p>
+    </main>
+    <div class="footer">
+        &copy; 2025 Inbora Studio &mdash; Made with Unity and Compute Shaders.<br>
+        <a href="https://github.com/InboraStudio/WaveBlender-Sound-Transformer-Compute-Unity3D">GitHub Repository</a>
+    </div>
+</body>
