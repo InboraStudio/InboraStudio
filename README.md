@@ -30,7 +30,7 @@
   
 > - 📗 [***SaltPlayerSourceV10.5.0.2***](https://github.com/Moriafly/SaltPlayerSource) <br/>
 Salt Player (A local music player trusted and chosen by hundreds of thousands of users) 
-> - 📘 [***Google comprehensive-rust***](https://github.com/google/comprehensive-rust) <br/>
+> - 📘 [***Google Pre Core***](https://github.com/google/percore) <br/>
  Rust developed Android team at Google 
 
 
