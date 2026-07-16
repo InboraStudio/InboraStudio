@@ -8,7 +8,7 @@
  
 
 - <img src="https://media.tenor.com/scCN_vagWI0AAAAi/play-violet-angry.gif" alt="." width="25" height="25"/> Lazy Developer
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/1200px-Tencent_Logo.svg.png" alt="." width="95" height="16"/> is Love researcher
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/3840px-Tencent_Logo.svg.png" alt="." width="95" height="16"/> is Love researcher
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="25" height="25" /> I am 2x years old. 
 - <img src="https://media.tenor.com/Fpdl08LKCKQAAAAi/mythikore-anime-girl.gif" alt="." width="35" height="35"/> I work on AI Optimization & Mathematical Researcher, also A Game Developer as hobbie, *and sometimee 3d anime girl modelling ( shhh, don't tell anyone! )* <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="." width="25" height="25" />    
   ↳ 'Some Projects' Physic Engine, 32bit Kernel, Language DataSets And FPS, horror, multiplayer, openwolrd, Stylised Games, so much more!
@@ -28,9 +28,9 @@
 
 # Projects Contributions <!-- omit in toc -->
 
-  > - 📘 [***Google Pre Core***](https://github.com/google/percore) <br/>
+  > - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/960px-Google_Favicon_2025.svg.png" alt="." width="25" height="25"/>  [***Google Pre Core***](https://github.com/google/percore) <br/>
  Safe per-CPU core mutable state on no_std Rust platforms through exception masking. 
-> - 📙 [***Google Ink***](https://github.com/google/ink) <br/>
+> - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/960px-Google_Favicon_2025.svg.png" alt="." width="25" height="25"/>  [***Google Ink***](https://github.com/google/ink) <br/>
  The Ink library is a freehand stroke generation library for meshbased vector graphics
 
 
@@ -48,7 +48,7 @@ Salt Player (A local music player trusted and chosen by hundreds of thousands of
 <sub>  *“Their doubt is a reflection of their mindset, not your potential. ♪.” – Dr chamyoung * </sub>
 </div>
 
-## Discord
+## Discord 
 <a href="https://discord.com/users/1090224458549182546"  align="left">
     <img src="https://lanyard.cnrad.dev/api/1090224458549182546?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
